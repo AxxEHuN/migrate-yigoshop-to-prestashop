@@ -9,12 +9,10 @@
 </head>
 <body>  
 <div id="bodyPanel">
+	
 <?php  
-
-
 include "incl/config.php";
 include "incl/functions.php";
-
  termekek_osszes();
 ?>
 
