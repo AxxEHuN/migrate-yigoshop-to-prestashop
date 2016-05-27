@@ -1,9 +1,9 @@
 <?php
 
 $db_host = "localhost";
-$db_user = "monoli01_chixhu";
-$db_pass = "tomiiszod";
-$db_name = "monoli01_chixhu";
+$db_user = "database user";
+$db_pass = "pasword";
+$db_name = "database name";
 
 $conn = mysql_connect($db_host,$db_user,$db_pass);
 mysql_select_db($db_name);
