@@ -235,10 +235,5 @@ VALUES
 
 $result = mysql_query($query) or die(mysql_error() . "<br />" . $query);
 }
-/*  regular_price, sku, _yoast_wpseo_title, _yoast_wpseo_metadesc,
-SELECT * 
-FROM  `wp_postmeta` 
-WHERE  `post_id` =1341 */
-
 
 ?>
